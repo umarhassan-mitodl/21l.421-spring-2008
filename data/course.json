@@ -1,0 +1,53 @@
+{
+  "term": "Spring",
+  "year": "2008",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Comedy"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "International Literature"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Comparative Literature"
+    ]
+  ],
+  "legacy_uid": "6bb3062f-74cf-fa5c-eee9-9b8d6fa20f27",
+  "instructors": {
+    "content": [
+      "fdcae15c-d0cd-54d9-94fa-bacc0caedcbc"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c7c0221b-4795-ff42-3608-97a2665744b8",
+    "website": "21l-421-comedy-spring-2008"
+  },
+  "course_title": "Comedy",
+  "course_description": "This course looks at comedy in drama, novels, and films from Classical Greece to the twentieth century. Focusing on examples from Aristophanes, Shakespeare, Cervantes, Moli\u00e8re, Wilde, Chaplin, and Billy Wilder, along with theoretical contexts, the class examines comedy as a transgressive mode with revolutionary social and political implications. This is a Communications Intensive (CI) class with emphasis on discussion, and frequent, short essays.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.421",
+  "course_image_thumbnail": {
+    "content": "334da2d7-d9e3-4542-4bdd-767ce15e905b",
+    "website": "21l-421-comedy-spring-2008"
+  },
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "33676f99-a3f2-49af-8852-a9d3ca848f85",
+  "site_short_id": "21l.421-spring-2008",
+  "site_url_path": "courses/21l-421-comedy-spring-2008",
+  "title": "Course Metadata"
+}
